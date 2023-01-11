@@ -1,8 +1,8 @@
-### Descricao
-<!-- Por favor explique as mudancas que vc fez aqui -->
+### Description
+<!-- Please explain what you doing here -->
 
 ### Checklist
-- [ ] Codigo Compila corretamente;
-- [ ] Testes unitarios;
-- [ ] Todos os teses unitarios passam;
-- [ ] Changelog atualizado
+- [ ] Code Compiles Correctly
+- [ ] Unit Tests;
+- [ ] All tests pass;
+- [ ] Changelog updated
